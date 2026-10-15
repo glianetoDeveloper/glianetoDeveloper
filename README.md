@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/3e58a109-cd3c-4648-bb28-e3940f243836" />
+  <img width="100%" height="350" alt="image" src="https://github.com/user-attachments/assets/9742ee71-14ea-46a8-8007-15f44897674e" />
 </div>
 
 ### `Glia Neto`
